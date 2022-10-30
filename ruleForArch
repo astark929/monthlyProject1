@@ -1,0 +1,15 @@
+
+
+these are the rules of the game
+    1: get close to the number 21, without going over"
+    2: kings, queens, and jacks of all kinds are worth 10
+    3: you can choose whether your 'Ace' is worth 1 or 11
+    4: if you hit 21 exactly, you win
+    5: if you go over 21 you loose
+    6: if you have a higher number than the dealers cards but under 21, you win
+    7: if you have a number lower than the dealers cards and under 21, you loose
+
+extra information, you may need to know
+    - kings, queens, and jacks of all kinds are worth 10
+    - you can choose whether your 'Ace' is worth 1 or 11
+    - there are no jokers
